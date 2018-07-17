@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMultiPlayerCapsuleShooter", "Assembly-CSharp.csproj", "{462A3885-D996-4B2A-EED4-C1F99E7452FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMultiPlayerCapsuleShooter", "Assembly-CSharp-Editor.csproj", "{EDB948A1-DB7F-08B7-920E-31EC9CBD24B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462A3885-D996-4B2A-EED4-C1F99E7452FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462A3885-D996-4B2A-EED4-C1F99E7452FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462A3885-D996-4B2A-EED4-C1F99E7452FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462A3885-D996-4B2A-EED4-C1F99E7452FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB948A1-DB7F-08B7-920E-31EC9CBD24B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB948A1-DB7F-08B7-920E-31EC9CBD24B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB948A1-DB7F-08B7-920E-31EC9CBD24B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB948A1-DB7F-08B7-920E-31EC9CBD24B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
